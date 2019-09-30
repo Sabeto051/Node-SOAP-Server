@@ -5,8 +5,14 @@ Servidor SOAP sencillo, cliente SOAP consumidor del servicio local, y otro clien
 ## Uso
 
 Para iniciar el servidor:
-`npm start`
+```
+  npm start
+  ```
 Para iniciar el cliente local:
-`node cliente.js`
+```
+  node cliente.js
+  ```
 Para el cliente externo:
-`node cliente2.js`
+```
+  node cliente2.js
+  ```
