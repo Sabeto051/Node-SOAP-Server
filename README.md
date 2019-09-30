@@ -1,6 +1,6 @@
 # Node Soap - Server
 
-Servidor Soap, cliente SOAP consumidor del servicio local, y otro cliente consumidor de un servicio externo.
+Servidor Soap, cliente Soap consumidor del servicio local, y otro cliente consumidor de un servicio externo.
 
 ## Uso
 
