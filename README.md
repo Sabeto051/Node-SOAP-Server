@@ -12,7 +12,7 @@ Para iniciar el cliente local:
 ```
   node cliente.js
   ```
-Para el cliente externo:
+Para iniciar el cliente externo:
 ```
   node cliente2.js
   ```
